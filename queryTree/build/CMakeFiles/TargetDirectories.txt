@@ -1,0 +1,3 @@
+/home/prasanth/EDA/boost/queryTree/build/CMakeFiles/rebuild_cache.dir
+/home/prasanth/EDA/boost/queryTree/build/CMakeFiles/brt.dir
+/home/prasanth/EDA/boost/queryTree/build/CMakeFiles/edit_cache.dir
